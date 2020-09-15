@@ -2,7 +2,7 @@ Run main.py
 
 Please reference the following paper:
     
-Elyan E, Moreno-García CF, Jayne C. CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification. Neural Comput Appl. 2020. doi:10.1007/s00521-020-05130-z
+Elyan E., Moreno-García C.F., Jayne C., CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification. Neural Comput Appl. 2020. doi:10.1007/s00521-020-05130-z
 
 
 @article{Elyan2020,
