@@ -166,7 +166,7 @@ if abs(average-newclassdist_count[-1])>threshold:
     newmaj = 0
     for i,j in enumerate(newclassdist_count[0:-1]):
         if abs(j-average)<c:
-            c = abs(i-average)
+            c = abs(j-average)
             newmaj = i
     majority_class_new = majority_class+'_c'+str(newmaj)
     minority_class_new = minority_class+'_c0'
