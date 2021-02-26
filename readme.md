@@ -6,7 +6,7 @@ The repository was obtained from:
 
 * Cleofas-Sánchez L, Sánchez JS, García V, Valdovinos RM. Associative learning on imbalanced environments: An empirical study. Expert Syst Appl. 2016;54:387–97. 
 
-Please reference the following paper:
+Please reference this method as follows:
     
 * Elyan E., Moreno-García C.F., Jayne C., CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification. Neural Comput Appl. 2020. doi:10.1007/s00521-020-05130-z
 
