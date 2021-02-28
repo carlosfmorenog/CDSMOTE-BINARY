@@ -1,12 +1,12 @@
 # CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification
 
-Run `main.py` for experiments with the whole data repository, or see `demo.ipynb` for a demo using the "C5" (vehicle3) dataset.
+Run `CDSMOTE-Bin.py` or see `demo.ipynb` for a demo using the "C15" (Ecoli046_vs_5) dataset.
 
-The repository was obtained from:
+This dataset was obtained from:
 
 * Cleofas-Sánchez L, Sánchez JS, García V, Valdovinos RM. Associative learning on imbalanced environments: An empirical study. Expert Syst Appl. 2016;54:387–97. 
 
-Please reference this method as follows:
+Please reference CDSMOTE as follows:
     
 * Elyan E., Moreno-García C.F., Jayne C., CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification. Neural Comput Appl. 2020. doi:10.1007/s00521-020-05130-z
 
